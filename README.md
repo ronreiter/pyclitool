@@ -1,7 +1,7 @@
-Python CLI tools
-================
+py CLI tool
+===========
 
-pyclitool is a command line utility that allow you to map/filter/reduce your input with a Python one liner, line by line.
+`py` is a command line utility that allow you to map/filter/reduce your input with a Python one liner, line by line.
 
 
 Installing:
