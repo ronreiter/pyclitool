@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pyclitool
+Version: 1.1.1
+Summary: pyclitool is a command line utility that allow you to map/filter/reduce your input with a Python one liner, line by line.
+Home-page: https://github.com/ronreiter/pyclitool
+Author: Ron Reiter
+Author-email: ron.reiter@gmail.com
+License: MIT
+Description: Read more here: https://github.com/ronreiter/pyclitool
+Platform: UNKNOWN
